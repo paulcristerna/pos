@@ -1,0 +1,557 @@
+c:\users\hector\documents\visual studio 2012\Projects\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.exe.config
+c:\users\hector\documents\visual studio 2012\Projects\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.exe
+c:\users\hector\documents\visual studio 2012\Projects\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.pdb
+c:\users\hector\documents\visual studio 2012\Projects\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.csprojResolveAssemblyReference.cache
+c:\users\hector\documents\visual studio 2012\Projects\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Form1.resources
+c:\users\hector\documents\visual studio 2012\Projects\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Properties.Resources.resources
+c:\users\hector\documents\visual studio 2012\Projects\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.csproj.GenerateResource.Cache
+c:\users\hector\documents\visual studio 2012\Projects\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.exe
+c:\users\hector\documents\visual studio 2012\Projects\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.pdb
+c:\users\hector\documents\visual studio 2012\Projects\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Menu_Principal.resources
+C:\Users\Hector\Documents\Visual Studio 2012\Projects\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Productos.resources
+C:\Users\Hector\Documents\Visual Studio 2012\Projects\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Inventarios.resources
+C:\Users\Hector\Documents\Visual Studio 2012\Projects\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Usuarios.resources
+C:\Users\Hector\Documents\Visual Studio 2012\Projects\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Clientes.resources
+C:\Users\Hector\Documents\Visual Studio 2012\Projects\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Proveedores.resources
+C:\Users\Hector\Documents\Visual Studio 2012\Projects\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.PuntoVenta.resources
+C:\Users\Hector\Documents\Visual Studio 2012\Projects\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Registro_Producto.resources
+C:\Users\Hector\Documents\Visual Studio 2012\Projects\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Producto.resources
+C:\Users\Hector\Documents\Visual Studio 2012\Projects\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Eliminar_Producto.resources
+C:\Users\Hector\Documents\Visual Studio 2012\Projects\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Buscar_Producto.resources
+C:\Users\Hector\Desktop\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.exe.config
+C:\Users\Hector\Desktop\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.exe
+C:\Users\Hector\Desktop\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.pdb
+C:\Users\Hector\Desktop\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.exe
+C:\Users\Hector\Desktop\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.pdb
+C:\Users\Hector\Desktop\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.csprojResolveAssemblyReference.cache
+C:\Users\Hector\Desktop\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Buscar_Producto.resources
+C:\Users\Hector\Desktop\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Clientes.resources
+C:\Users\Hector\Desktop\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Eliminar_Producto.resources
+C:\Users\Hector\Desktop\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Form1.resources
+C:\Users\Hector\Desktop\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Inventarios.resources
+C:\Users\Hector\Desktop\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Menu_Principal.resources
+C:\Users\Hector\Desktop\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Producto.resources
+C:\Users\Hector\Desktop\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Productos.resources
+C:\Users\Hector\Desktop\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Properties.Resources.resources
+C:\Users\Hector\Desktop\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Proveedores.resources
+C:\Users\Hector\Desktop\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.PuntoVenta.resources
+C:\Users\Hector\Desktop\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Registro_Producto.resources
+C:\Users\Hector\Desktop\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Usuarios.resources
+C:\Users\Hector\Desktop\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.csproj.GenerateResource.Cache
+C:\Users\Hector\Desktop\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Buscar_Productos_Inventarios.resources
+C:\Users\Hector\Desktop\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Inventario.resources
+C:\Users\Hector\Desktop\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Registro_Usuario.resources
+C:\Users\Hector\Desktop\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Usuario.resources
+C:\Users\Hector\Desktop\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Eliminar_Usuario.resources
+C:\Users\Hector\Desktop\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Registro_Cliente.resources
+C:\Users\Hector\Desktop\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Registro_Proveedor.resources
+C:\Users\Hector\Desktop\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Eliminar_Cliente.resources
+C:\Users\Hector\Desktop\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Eliminar_Proveedor.resources
+C:\Users\Hector\Desktop\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Cliente.resources
+C:\Users\Hector\Desktop\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Proveedor.resources
+C:\Users\Hector\Desktop\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Reportes_Ventas.resources
+C:\Users\admin\Documents\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Eliminar_Cliente.resources
+C:\Users\admin\Documents\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Eliminar_Proveedor.resources
+C:\Users\admin\Documents\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Buscar_Productos_Inventarios.resources
+C:\Users\admin\Documents\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Cliente.resources
+C:\Users\admin\Documents\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Proveedor.resources
+C:\Users\admin\Documents\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Registro_Cliente.resources
+C:\Users\admin\Documents\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Registro_Proveedor.resources
+C:\Users\admin\Documents\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Reportes_Ventas.resources
+C:\Users\admin\Documents\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Eliminar_Usuario.resources
+C:\Users\admin\Documents\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Inventario.resources
+C:\Users\admin\Documents\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Usuario.resources
+C:\Users\admin\Documents\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Buscar_Producto.resources
+C:\Users\admin\Documents\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Clientes.resources
+C:\Users\admin\Documents\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Eliminar_Producto.resources
+C:\Users\admin\Documents\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Form1.resources
+C:\Users\admin\Documents\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Inventarios.resources
+C:\Users\admin\Documents\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Menu_Principal.resources
+C:\Users\admin\Documents\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Producto.resources
+C:\Users\admin\Documents\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Productos.resources
+C:\Users\admin\Documents\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Properties.Resources.resources
+C:\Users\admin\Documents\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Proveedores.resources
+C:\Users\admin\Documents\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.PuntoVenta.resources
+C:\Users\admin\Documents\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Registro_Producto.resources
+C:\Users\admin\Documents\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Registro_Usuario.resources
+C:\Users\admin\Documents\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Usuarios.resources
+C:\Users\admin\Documents\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.exe.config
+C:\Users\admin\Documents\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.exe
+C:\Users\admin\Documents\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.pdb
+C:\Users\admin\Documents\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\bin\Debug\MySql.Data.dll
+C:\Users\admin\Documents\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.exe
+C:\Users\admin\Documents\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.pdb
+C:\Users\Hector\Desktop\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.exe.config
+C:\Users\Hector\Desktop\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.exe
+C:\Users\Hector\Desktop\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.pdb
+C:\Users\Hector\Desktop\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.exe
+C:\Users\Hector\Desktop\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.pdb
+C:\Users\Hector\Desktop\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.csprojResolveAssemblyReference.cache
+C:\Users\Hector\Desktop\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Eliminar_Cliente.resources
+C:\Users\Hector\Desktop\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Eliminar_Proveedor.resources
+C:\Users\Hector\Desktop\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Buscar_Productos_Inventarios.resources
+C:\Users\Hector\Desktop\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Cliente.resources
+C:\Users\Hector\Desktop\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Proveedor.resources
+C:\Users\Hector\Desktop\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Registro_Cliente.resources
+C:\Users\Hector\Desktop\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Registro_Proveedor.resources
+C:\Users\Hector\Desktop\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Reportes_Ventas.resources
+C:\Users\Hector\Desktop\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Eliminar_Usuario.resources
+C:\Users\Hector\Desktop\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Inventario.resources
+C:\Users\Hector\Desktop\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Usuario.resources
+C:\Users\Hector\Desktop\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Buscar_Producto.resources
+C:\Users\Hector\Desktop\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Clientes.resources
+C:\Users\Hector\Desktop\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Eliminar_Producto.resources
+C:\Users\Hector\Desktop\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Form1.resources
+C:\Users\Hector\Desktop\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Inventarios.resources
+C:\Users\Hector\Desktop\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Menu_Principal.resources
+C:\Users\Hector\Desktop\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Producto.resources
+C:\Users\Hector\Desktop\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Productos.resources
+C:\Users\Hector\Desktop\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Properties.Resources.resources
+C:\Users\Hector\Desktop\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Proveedores.resources
+C:\Users\Hector\Desktop\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.PuntoVenta.resources
+C:\Users\Hector\Desktop\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Registro_Producto.resources
+C:\Users\Hector\Desktop\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Registro_Usuario.resources
+C:\Users\Hector\Desktop\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Usuarios.resources
+C:\Users\Hector\Desktop\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\bin\Debug\itextsharp.dll
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.exe.config
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.exe
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.pdb
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.csprojResolveAssemblyReference.cache
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Eliminar_Cliente.resources
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Eliminar_Proveedor.resources
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Buscar_Productos_Inventarios.resources
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Cliente.resources
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Proveedor.resources
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Registro_Cliente.resources
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Registro_Proveedor.resources
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Reportes_Ventas.resources
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Eliminar_Usuario.resources
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Inventario.resources
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Usuario.resources
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Buscar_Producto.resources
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Clientes.resources
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Eliminar_Producto.resources
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Form1.resources
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Inventarios.resources
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Menu_Principal.resources
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Producto.resources
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Productos.resources
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Properties.Resources.resources
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Proveedores.resources
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.PuntoVenta.resources
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Registro_Producto.resources
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Registro_Usuario.resources
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Usuarios.resources
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.csproj.GenerateResource.Cache
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.exe
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.pdb
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\bin\Debug\itextsharp.dll
+C:\Users\admin\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.exe.config
+C:\Users\admin\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.exe
+C:\Users\admin\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.pdb
+C:\Users\admin\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.exe
+C:\Users\admin\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.pdb
+C:\Users\admin\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.csprojResolveAssemblyReference.cache
+C:\Users\admin\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Eliminar_Cliente.resources
+C:\Users\admin\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Eliminar_Proveedor.resources
+C:\Users\admin\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Buscar_Productos_Inventarios.resources
+C:\Users\admin\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Cliente.resources
+C:\Users\admin\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Proveedor.resources
+C:\Users\admin\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Registro_Cliente.resources
+C:\Users\admin\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Registro_Proveedor.resources
+C:\Users\admin\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Reportes_Ventas.resources
+C:\Users\admin\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Eliminar_Usuario.resources
+C:\Users\admin\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Inventario.resources
+C:\Users\admin\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Usuario.resources
+C:\Users\admin\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Buscar_Producto.resources
+C:\Users\admin\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Clientes.resources
+C:\Users\admin\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Eliminar_Producto.resources
+C:\Users\admin\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Form1.resources
+C:\Users\admin\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Inventarios.resources
+C:\Users\admin\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Menu_Principal.resources
+C:\Users\admin\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Producto.resources
+C:\Users\admin\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Productos.resources
+C:\Users\admin\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Properties.Resources.resources
+C:\Users\admin\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Proveedores.resources
+C:\Users\admin\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.PuntoVenta.resources
+C:\Users\admin\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Registro_Producto.resources
+C:\Users\admin\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Registro_Usuario.resources
+C:\Users\admin\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Usuarios.resources
+C:\Users\admin\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.exe.config
+C:\Users\admin\Documents\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.exe
+C:\Users\admin\Documents\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.pdb
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Sistema_Punto_Venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Ayuda.resources
+C:\Users\Hector\Desktop\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Ayuda.resources
+C:\Users\admin\Desktop\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.exe.config
+C:\Users\admin\Desktop\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.exe
+C:\Users\admin\Desktop\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.pdb
+C:\Users\admin\Desktop\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.exe
+C:\Users\admin\Desktop\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.pdb
+C:\Users\admin\Desktop\Punto_Venta\Punto_Venta\bin\Debug\MySql.Data.dll
+C:\Users\admin\Desktop\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Ayuda.resources
+C:\Users\admin\Desktop\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Eliminar_Cliente.resources
+C:\Users\admin\Desktop\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Eliminar_Proveedor.resources
+C:\Users\admin\Desktop\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Buscar_Productos_Inventarios.resources
+C:\Users\admin\Desktop\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Cliente.resources
+C:\Users\admin\Desktop\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Proveedor.resources
+C:\Users\admin\Desktop\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Registro_Cliente.resources
+C:\Users\admin\Desktop\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Registro_Proveedor.resources
+C:\Users\admin\Desktop\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Reportes_Ventas.resources
+C:\Users\admin\Desktop\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Eliminar_Usuario.resources
+C:\Users\admin\Desktop\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Inventario.resources
+C:\Users\admin\Desktop\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Usuario.resources
+C:\Users\admin\Desktop\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Buscar_Producto.resources
+C:\Users\admin\Desktop\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Clientes.resources
+C:\Users\admin\Desktop\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Eliminar_Producto.resources
+C:\Users\admin\Desktop\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Form1.resources
+C:\Users\admin\Desktop\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Inventarios.resources
+C:\Users\admin\Desktop\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Menu_Principal.resources
+C:\Users\admin\Desktop\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Producto.resources
+C:\Users\admin\Desktop\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Productos.resources
+C:\Users\admin\Desktop\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Properties.Resources.resources
+C:\Users\admin\Desktop\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Proveedores.resources
+C:\Users\admin\Desktop\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.PuntoVenta.resources
+C:\Users\admin\Desktop\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Registro_Producto.resources
+C:\Users\admin\Desktop\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Registro_Usuario.resources
+C:\Users\admin\Desktop\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Usuarios.resources
+C:\Users\admin\Desktop\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.csproj.GenerateResource.Cache
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.exe.config
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.exe
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.pdb
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.exe
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.pdb
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\bin\Debug\itextsharp.dll
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.csprojResolveAssemblyReference.cache
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Ayuda.resources
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Eliminar_Cliente.resources
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Eliminar_Proveedor.resources
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Buscar_Productos_Inventarios.resources
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Cliente.resources
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Proveedor.resources
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Registro_Cliente.resources
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Registro_Proveedor.resources
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Reportes_Ventas.resources
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Eliminar_Usuario.resources
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Inventario.resources
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Usuario.resources
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Buscar_Producto.resources
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Clientes.resources
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Eliminar_Producto.resources
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Form1.resources
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Inventarios.resources
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Menu_Principal.resources
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Producto.resources
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Productos.resources
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Properties.Resources.resources
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Proveedores.resources
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.PuntoVenta.resources
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Registro_Producto.resources
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Registro_Usuario.resources
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Usuarios.resources
+C:\Users\Hector\Downloads\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.csproj.GenerateResource.Cache
+F:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.exe.config
+F:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.exe
+F:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.pdb
+F:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.exe
+F:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.pdb
+F:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\bin\Debug\itextsharp.dll
+F:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.csprojResolveAssemblyReference.cache
+F:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Ayuda.resources
+F:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Eliminar_Cliente.resources
+F:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Eliminar_Proveedor.resources
+F:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Buscar_Productos_Inventarios.resources
+F:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Cliente.resources
+F:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Proveedor.resources
+F:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Registro_Cliente.resources
+F:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Registro_Proveedor.resources
+F:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Reportes_Ventas.resources
+F:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Eliminar_Usuario.resources
+F:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Inventario.resources
+F:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Usuario.resources
+F:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Buscar_Producto.resources
+F:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Clientes.resources
+F:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Eliminar_Producto.resources
+F:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Form1.resources
+F:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Inventarios.resources
+F:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Menu_Principal.resources
+F:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Producto.resources
+F:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Productos.resources
+F:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Properties.Resources.resources
+F:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Proveedores.resources
+F:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.PuntoVenta.resources
+F:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Registro_Producto.resources
+F:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Registro_Usuario.resources
+F:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Usuarios.resources
+F:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.csproj.GenerateResource.Cache
+L:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.exe.config
+L:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.exe
+L:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.pdb
+L:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.exe
+L:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.pdb
+L:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\bin\Debug\itextsharp.dll
+L:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.csprojResolveAssemblyReference.cache
+L:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Ayuda.resources
+L:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Eliminar_Cliente.resources
+L:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Eliminar_Proveedor.resources
+L:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Buscar_Productos_Inventarios.resources
+L:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Cliente.resources
+L:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Proveedor.resources
+L:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Registro_Cliente.resources
+L:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Registro_Proveedor.resources
+L:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Reportes_Ventas.resources
+L:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Eliminar_Usuario.resources
+L:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Inventario.resources
+L:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Usuario.resources
+L:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Buscar_Producto.resources
+L:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Clientes.resources
+L:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Eliminar_Producto.resources
+L:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Form1.resources
+L:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Inventarios.resources
+L:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Menu_Principal.resources
+L:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Producto.resources
+L:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Productos.resources
+L:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Properties.Resources.resources
+L:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Proveedores.resources
+L:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.PuntoVenta.resources
+L:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Registro_Producto.resources
+L:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Registro_Usuario.resources
+L:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Usuarios.resources
+L:\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.csproj.GenerateResource.Cache
+C:\Users\Hector\Desktop\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.exe.config
+C:\Users\Hector\Desktop\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.exe
+C:\Users\Hector\Desktop\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.pdb
+C:\Users\Hector\Desktop\ESCRITORIO 2015\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.exe.config
+C:\Users\Hector\Desktop\ESCRITORIO 2015\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.exe
+C:\Users\Hector\Desktop\ESCRITORIO 2015\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.pdb
+C:\Users\Hector\Desktop\ESCRITORIO 2015\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.exe
+C:\Users\Hector\Desktop\ESCRITORIO 2015\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.pdb
+C:\Users\Hector\Desktop\ESCRITORIO 2015\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.csprojResolveAssemblyReference.cache
+C:\Users\Hector\Desktop\ESCRITORIO 2015\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Ayuda.resources
+C:\Users\Hector\Desktop\ESCRITORIO 2015\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Eliminar_Cliente.resources
+C:\Users\Hector\Desktop\ESCRITORIO 2015\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Eliminar_Proveedor.resources
+C:\Users\Hector\Desktop\ESCRITORIO 2015\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Buscar_Productos_Inventarios.resources
+C:\Users\Hector\Desktop\ESCRITORIO 2015\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Cliente.resources
+C:\Users\Hector\Desktop\ESCRITORIO 2015\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Proveedor.resources
+C:\Users\Hector\Desktop\ESCRITORIO 2015\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Registro_Cliente.resources
+C:\Users\Hector\Desktop\ESCRITORIO 2015\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Registro_Proveedor.resources
+C:\Users\Hector\Desktop\ESCRITORIO 2015\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Reportes_Ventas.resources
+C:\Users\Hector\Desktop\ESCRITORIO 2015\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Eliminar_Usuario.resources
+C:\Users\Hector\Desktop\ESCRITORIO 2015\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Inventario.resources
+C:\Users\Hector\Desktop\ESCRITORIO 2015\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Usuario.resources
+C:\Users\Hector\Desktop\ESCRITORIO 2015\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Buscar_Producto.resources
+C:\Users\Hector\Desktop\ESCRITORIO 2015\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Clientes.resources
+C:\Users\Hector\Desktop\ESCRITORIO 2015\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Eliminar_Producto.resources
+C:\Users\Hector\Desktop\ESCRITORIO 2015\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Form1.resources
+C:\Users\Hector\Desktop\ESCRITORIO 2015\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Inventarios.resources
+C:\Users\Hector\Desktop\ESCRITORIO 2015\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Menu_Principal.resources
+C:\Users\Hector\Desktop\ESCRITORIO 2015\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Producto.resources
+C:\Users\Hector\Desktop\ESCRITORIO 2015\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Productos.resources
+C:\Users\Hector\Desktop\ESCRITORIO 2015\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Properties.Resources.resources
+C:\Users\Hector\Desktop\ESCRITORIO 2015\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Proveedores.resources
+C:\Users\Hector\Desktop\ESCRITORIO 2015\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.PuntoVenta.resources
+C:\Users\Hector\Desktop\ESCRITORIO 2015\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Registro_Producto.resources
+C:\Users\Hector\Desktop\ESCRITORIO 2015\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Registro_Usuario.resources
+C:\Users\Hector\Desktop\ESCRITORIO 2015\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Usuarios.resources
+C:\Users\Hector\Desktop\ESCRITORIO 2015\Sistema_Punto_Venta\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.csproj.GenerateResource.Cache
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.exe.config
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.exe
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.pdb
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.csprojResolveAssemblyReference.cache
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Ayuda.resources
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Eliminar_Cliente.resources
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Eliminar_Proveedor.resources
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Buscar_Productos_Inventarios.resources
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Cliente.resources
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Proveedor.resources
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Registro_Cliente.resources
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Registro_Proveedor.resources
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Reportes_Ventas.resources
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Eliminar_Usuario.resources
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Inventario.resources
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Usuario.resources
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Buscar_Producto.resources
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Clientes.resources
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Eliminar_Producto.resources
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Form1.resources
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Inventarios.resources
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Producto.resources
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Productos.resources
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Properties.Resources.resources
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Proveedores.resources
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.PuntoVenta.resources
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Registro_Producto.resources
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Registro_Usuario.resources
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Usuarios.resources
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.csproj.GenerateResource.Cache
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.exe
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.pdb
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\bin\Debug\MySql.Data.dll
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Menu.resources
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015 - copia\Punto_venta\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.exe.config
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015 - copia\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.exe
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015 - copia\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.pdb
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015 - copia\Punto_venta\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.exe
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015 - copia\Punto_venta\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.pdb
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015 - copia\Punto_venta\Punto_Venta\Punto_Venta\bin\Debug\MySql.Data.dll
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015 - copia\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.csprojResolveAssemblyReference.cache
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015 - copia\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Ayuda.resources
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015 - copia\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Eliminar_Cliente.resources
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015 - copia\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Menu.resources
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015 - copia\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Eliminar_Proveedor.resources
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015 - copia\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Buscar_Productos_Inventarios.resources
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015 - copia\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Cliente.resources
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015 - copia\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Proveedor.resources
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015 - copia\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Registro_Cliente.resources
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015 - copia\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Registro_Proveedor.resources
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015 - copia\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Reportes_Ventas.resources
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015 - copia\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Eliminar_Usuario.resources
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015 - copia\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Inventario.resources
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015 - copia\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Usuario.resources
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015 - copia\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Buscar_Producto.resources
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015 - copia\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Clientes.resources
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015 - copia\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Eliminar_Producto.resources
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015 - copia\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Form1.resources
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015 - copia\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Inventarios.resources
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015 - copia\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Modificar_Producto.resources
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015 - copia\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Productos.resources
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015 - copia\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Properties.Resources.resources
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015 - copia\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Proveedores.resources
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015 - copia\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.PuntoVenta.resources
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015 - copia\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Registro_Producto.resources
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015 - copia\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Registro_Usuario.resources
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015 - copia\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Usuarios.resources
+C:\Users\Hector\Desktop\Sistema de Punto de Venta 2015 - copia\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.csproj.GenerateResource.Cache
+C:\Users\Hector\Desktop\2.0\Sistema de Punto de Venta 2015 - copia\Punto_venta\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.exe.config
+C:\Users\Hector\Desktop\2.0\Sistema de Punto de Venta 2015 - copia\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.exe
+C:\Users\Hector\Desktop\2.0\Sistema de Punto de Venta 2015 - copia\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.pdb
+C:\Users\Hector\Desktop\2.0\Sistema de Punto de Venta 2015 - copia\Punto_venta\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.exe
+C:\Users\Hector\Desktop\2.0\Sistema de Punto de Venta 2015 - copia\Punto_venta\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.pdb
+C:\Users\Hector\Desktop\2.0\Sistema de Punto de Venta 2015 - copia\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.csprojResolveAssemblyReference.cache
+C:\Users\Hector\Desktop\2.0\Sistema de Punto de Venta 2015 - copia\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Ayuda.resources
+C:\Users\Hector\Desktop\2.0\Sistema de Punto de Venta 2015 - copia\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Menu.resources
+C:\Users\Hector\Desktop\2.0\Sistema de Punto de Venta 2015 - copia\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Reportes_Ventas.resources
+C:\Users\Hector\Desktop\2.0\Sistema de Punto de Venta 2015 - copia\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Clientes.resources
+C:\Users\Hector\Desktop\2.0\Sistema de Punto de Venta 2015 - copia\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Form1.resources
+C:\Users\Hector\Desktop\2.0\Sistema de Punto de Venta 2015 - copia\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Inventarios.resources
+C:\Users\Hector\Desktop\2.0\Sistema de Punto de Venta 2015 - copia\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Productos.resources
+C:\Users\Hector\Desktop\2.0\Sistema de Punto de Venta 2015 - copia\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Properties.Resources.resources
+C:\Users\Hector\Desktop\2.0\Sistema de Punto de Venta 2015 - copia\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Proveedores.resources
+C:\Users\Hector\Desktop\2.0\Sistema de Punto de Venta 2015 - copia\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.PuntoVenta.resources
+C:\Users\Hector\Desktop\2.0\Sistema de Punto de Venta 2015 - copia\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Usuarios.resources
+C:\Users\Hector\Desktop\2.0\Sistema de Punto de Venta 2015 - copia\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.csproj.GenerateResource.Cache
+C:\Users\Hector\Desktop\2.0\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.exe.config
+C:\Users\Hector\Desktop\2.0\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.exe
+C:\Users\Hector\Desktop\2.0\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.pdb
+C:\Users\Hector\Desktop\2.0\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.exe
+C:\Users\Hector\Desktop\2.0\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.pdb
+C:\Users\Hector\Desktop\2.0\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.csprojResolveAssemblyReference.cache
+C:\Users\Hector\Desktop\2.0\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Ayuda.resources
+C:\Users\Hector\Desktop\2.0\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Menu.resources
+C:\Users\Hector\Desktop\2.0\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Reportes_Ventas.resources
+C:\Users\Hector\Desktop\2.0\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Clientes.resources
+C:\Users\Hector\Desktop\2.0\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Form1.resources
+C:\Users\Hector\Desktop\2.0\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Inventarios.resources
+C:\Users\Hector\Desktop\2.0\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Productos.resources
+C:\Users\Hector\Desktop\2.0\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Properties.Resources.resources
+C:\Users\Hector\Desktop\2.0\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Proveedores.resources
+C:\Users\Hector\Desktop\2.0\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.PuntoVenta.resources
+C:\Users\Hector\Desktop\2.0\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Usuarios.resources
+C:\Users\Hector\Desktop\2.0\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.csproj.GenerateResource.Cache
+C:\Users\Hector\Desktop\2.0 - copia\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.exe.config
+C:\Users\Hector\Desktop\2.0 - copia\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.exe
+C:\Users\Hector\Desktop\2.0 - copia\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.pdb
+C:\Users\Hector\Desktop\2.0 - copia\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.exe
+C:\Users\Hector\Desktop\2.0 - copia\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.pdb
+C:\Users\Hector\Desktop\2.0 - copia\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.csprojResolveAssemblyReference.cache
+C:\Users\Hector\Desktop\2.0 - copia\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Ayuda.resources
+C:\Users\Hector\Desktop\2.0 - copia\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Menu.resources
+C:\Users\Hector\Desktop\2.0 - copia\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Reportes_Ventas.resources
+C:\Users\Hector\Desktop\2.0 - copia\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Clientes.resources
+C:\Users\Hector\Desktop\2.0 - copia\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Form1.resources
+C:\Users\Hector\Desktop\2.0 - copia\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Inventarios.resources
+C:\Users\Hector\Desktop\2.0 - copia\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Productos.resources
+C:\Users\Hector\Desktop\2.0 - copia\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Properties.Resources.resources
+C:\Users\Hector\Desktop\2.0 - copia\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Proveedores.resources
+C:\Users\Hector\Desktop\2.0 - copia\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.PuntoVenta.resources
+C:\Users\Hector\Desktop\2.0 - copia\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Usuarios.resources
+C:\Users\Hector\Desktop\2.0 - copia\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.csproj.GenerateResource.Cache
+D:\2.0 - copia\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.exe.config
+D:\2.0 - copia\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.exe
+D:\2.0 - copia\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.pdb
+D:\2.0 - copia\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.exe
+D:\2.0 - copia\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.pdb
+D:\2.0 - copia\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.csprojResolveAssemblyReference.cache
+D:\2.0 - copia\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Ayuda.resources
+D:\2.0 - copia\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Menu.resources
+D:\2.0 - copia\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Reportes_Ventas.resources
+D:\2.0 - copia\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Clientes.resources
+D:\2.0 - copia\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Form1.resources
+D:\2.0 - copia\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Inventarios.resources
+D:\2.0 - copia\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Productos.resources
+D:\2.0 - copia\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Properties.Resources.resources
+D:\2.0 - copia\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Proveedores.resources
+D:\2.0 - copia\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.PuntoVenta.resources
+D:\2.0 - copia\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Usuarios.resources
+D:\2.0 - copia\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.csproj.GenerateResource.Cache
+K:\2.0 - copia2\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.exe.config
+K:\2.0 - copia2\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.exe
+K:\2.0 - copia2\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.pdb
+C:\Users\Hector\Desktop\2.0 - copia2\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.exe.config
+C:\Users\Hector\Desktop\2.0 - copia2\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.exe
+C:\Users\Hector\Desktop\2.0 - copia2\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.pdb
+C:\Users\Hector\Desktop\2.0 - copia2\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.exe
+C:\Users\Hector\Desktop\2.0 - copia2\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.pdb
+C:\Users\Hector\Desktop\2.0 - copia2\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.csprojResolveAssemblyReference.cache
+C:\Users\Hector\Desktop\2.0 - copia2\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Ayuda.resources
+C:\Users\Hector\Desktop\2.0 - copia2\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Menu.resources
+C:\Users\Hector\Desktop\2.0 - copia2\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Reportes_Ventas.resources
+C:\Users\Hector\Desktop\2.0 - copia2\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Clientes.resources
+C:\Users\Hector\Desktop\2.0 - copia2\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Form1.resources
+C:\Users\Hector\Desktop\2.0 - copia2\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Inventarios.resources
+C:\Users\Hector\Desktop\2.0 - copia2\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Productos.resources
+C:\Users\Hector\Desktop\2.0 - copia2\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Properties.Resources.resources
+C:\Users\Hector\Desktop\2.0 - copia2\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Proveedores.resources
+C:\Users\Hector\Desktop\2.0 - copia2\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.PuntoVenta.resources
+C:\Users\Hector\Desktop\2.0 - copia2\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Usuarios.resources
+C:\Users\Hector\Desktop\2.0 - copia2\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.csproj.GenerateResource.Cache
+C:\Users\Hector\Desktop\2.0(Copia)\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.exe.config
+C:\Users\Hector\Desktop\2.0(Copia)\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.exe
+C:\Users\Hector\Desktop\2.0(Copia)\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.csprojResolveAssemblyReference.cache
+C:\Users\Hector\Desktop\2.0(Copia)\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Ayuda.resources
+C:\Users\Hector\Desktop\2.0(Copia)\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Menu.resources
+C:\Users\Hector\Desktop\2.0(Copia)\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Reportes_Ventas.resources
+C:\Users\Hector\Desktop\2.0(Copia)\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Clientes.resources
+C:\Users\Hector\Desktop\2.0(Copia)\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Form1.resources
+C:\Users\Hector\Desktop\2.0(Copia)\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Inventarios.resources
+C:\Users\Hector\Desktop\2.0(Copia)\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Productos.resources
+C:\Users\Hector\Desktop\2.0(Copia)\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Properties.Resources.resources
+C:\Users\Hector\Desktop\2.0(Copia)\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Proveedores.resources
+C:\Users\Hector\Desktop\2.0(Copia)\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.PuntoVenta.resources
+C:\Users\Hector\Desktop\2.0(Copia)\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Usuarios.resources
+C:\Users\Hector\Desktop\2.0(Copia)\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.csproj.GenerateResource.Cache
+C:\Users\Hector\Desktop\2.0(Copia)\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.exe
+C:\Users\Hector\Desktop\2.0(Copia)\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.pdb
+C:\Users\Hector\Desktop\2.0(Copia)\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.pdb
+C:\Users\hipsterna\Downloads\2.0\2.0\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.exe.config
+C:\Users\hipsterna\Downloads\2.0\2.0\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.exe
+C:\Users\hipsterna\Downloads\2.0\2.0\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.pdb
+C:\Users\hipsterna\Downloads\2.0\2.0\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.exe
+C:\Users\hipsterna\Downloads\2.0\2.0\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.pdb
+C:\Users\hipsterna\Downloads\2.0\2.0\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.csprojResolveAssemblyReference.cache
+C:\Users\hipsterna\Downloads\2.0\2.0\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Ayuda.resources
+C:\Users\hipsterna\Downloads\2.0\2.0\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Menu.resources
+C:\Users\hipsterna\Downloads\2.0\2.0\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Reportes_Ventas.resources
+C:\Users\hipsterna\Downloads\2.0\2.0\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Clientes.resources
+C:\Users\hipsterna\Downloads\2.0\2.0\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Form1.resources
+C:\Users\hipsterna\Downloads\2.0\2.0\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Inventarios.resources
+C:\Users\hipsterna\Downloads\2.0\2.0\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Productos.resources
+C:\Users\hipsterna\Downloads\2.0\2.0\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Properties.Resources.resources
+C:\Users\hipsterna\Downloads\2.0\2.0\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Proveedores.resources
+C:\Users\hipsterna\Downloads\2.0\2.0\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.PuntoVenta.resources
+C:\Users\hipsterna\Downloads\2.0\2.0\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Usuarios.resources
+C:\Users\hipsterna\Downloads\2.0\2.0\Sistema de Punto de Venta 2015\Punto_venta\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.csproj.GenerateResource.Cache
